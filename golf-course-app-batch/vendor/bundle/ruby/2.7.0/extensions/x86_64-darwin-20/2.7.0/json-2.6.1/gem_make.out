@@ -1,0 +1,13 @@
+current directory: /Users/toshipy/Documents/App/React/search-golf-app/golf-course-app-batch/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/toshipy/.rbenv/versions/2.7.0/bin/ruby -I /Users/toshipy/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20211105-42089-1j6ah6a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toshipy/Documents/App/React/search-golf-app/golf-course-app-batch/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/toshipy/Documents/App/React/search-golf-app/golf-course-app-batch/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/toshipy/Documents/App/React/search-golf-app/golf-course-app-batch/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
